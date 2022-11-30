@@ -34,3 +34,8 @@ Start the server
   npm run start
 ```
 
+## Usage
+
+* To **Update** list item: just click the item > rewrite the sentence > hit enter;
+* To **Delete** list item: double click on it > click OK.
+
